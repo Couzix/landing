@@ -1,0 +1,19 @@
+.banner {
+  background-color: #4267B2;
+  background-size: cover;
+  background-position: center;
+  padding: 30px 0;
+  height: 165px;
+}
+
+.banner h1 {
+  color: white;
+  margin-block-start: 2px;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  line-height: 2.4;
+  margin-top: -32px;
+}
